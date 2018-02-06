@@ -5,13 +5,15 @@
     
   <url>
     <loc>http://yoursite.com/2018/02/06/apache-reverse-proxy/</loc>
-    <lastmod>2018-02-06T16:23:04.833Z</lastmod>
+    <lastmod>2018-02-06T16:30:24.240Z</lastmod>
     <data>
         <display>
-        <title>reverseproxy</title>
+        <title>ssh反向代理</title>
         <pubTime>2018-02-06T15:49:45.000Z</pubTime>
         
-        <tag>apache,linux</tag>
+        <tag>apache</tag>
+         
+        <tag>linux</tag>
          
          
            
