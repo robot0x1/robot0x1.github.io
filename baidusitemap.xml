@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/02/06/apache-reverse-proxy/</loc>
+    <lastmod>2018-02-06T16:23:04.833Z</lastmod>
+    <data>
+        <display>
+        <title>reverseproxy</title>
+        <pubTime>2018-02-06T15:49:45.000Z</pubTime>
+        
+        <tag>apache,linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="工具" url="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/02/06/hexo/</loc>
     <lastmod>2018-02-06T15:46:04.942Z</lastmod>
     <data>
