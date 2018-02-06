@@ -4,51 +4,6 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/02/05/hello-world/</loc>
-    <lastmod>2018-02-05T13:14:21.088Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-02-05T13:14:21.088Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/02/06/hello-world%20(copy)/</loc>
-    <lastmod>2018-02-05T13:14:21.088Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-02-06T12:28:19.019Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/02/06/hello-world%20(another%20copy)/</loc>
-    <lastmod>2018-02-05T13:14:21.088Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-02-06T12:28:20.063Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://yoursite.com/2018/02/06/hello-world%20(3rd%20copy)/</loc>
     <lastmod>2018-02-05T13:14:21.088Z</lastmod>
     <data>
@@ -115,6 +70,51 @@
         <display>
         <title>Hello World</title>
         <pubTime>2018-02-06T12:28:21.227Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/02/06/hello-world%20(another%20copy)/</loc>
+    <lastmod>2018-02-05T13:14:21.088Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-02-06T12:28:20.063Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/02/06/hello-world%20(copy)/</loc>
+    <lastmod>2018-02-05T13:14:21.088Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-02-06T12:28:19.019Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/02/05/hello-world/</loc>
+    <lastmod>2018-02-05T13:14:21.088Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-02-05T13:14:21.088Z</pubTime>
         
          
            
