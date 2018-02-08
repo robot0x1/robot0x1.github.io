@@ -272,15 +272,17 @@ pre {
   width: 320px;
   margin: 0 auto;
   letter-spacing: 3px;
-  color: #88c9dd;
+  color: #fff;
   text-overflow: ellipsis;
   overflow: hidden;
   white-space: nowrap;
-  background-image: -webkit-linear-gradient(left, #cddc39, #88c9dd 25%, #cddc39 50%, #88c9dd 75%, #cddc39) !important;
+/*
+  background-image: -webkit-linear-gradient(left, #fff, #88c9dd 25%, #cddc39 50%, #88c9dd 75%, #fff) !important;
   -webkit-text-fill-color: transparent!important;
   -webkit-background-clip: text!important;
   background-size: 200% 100%!important;
   animation: masked-animation 2s infinite linear !important;
+*/
 }
 .main-header .main-header-box .branding h2:hover {
   animation: masked-animation 1s infinite linear !important;
